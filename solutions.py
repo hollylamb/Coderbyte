@@ -21,3 +21,9 @@ def SimpleSymbols(str):
         return False
 
   return True
+
+ #longestworldchallenge
+ 
+ def longest_word(sen):
+  n = max(sen.split())
+  return (n)
